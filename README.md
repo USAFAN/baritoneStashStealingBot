@@ -8,4 +8,4 @@ set the account that will load pearls coords inside baritoneCommandSlave. The mo
 
 The only known issue is that if you like mine a chest of totems, then u dont die on ur fall. I was too lazy to code around that cuz it rarely happend. 
 
-Make sure to have autowalk to direction mode, autototem off, and viewlock to the direction You want to pearl.
+Make sure to have autowalk to direction mode, autototem off, and viewlock to the direction You want to pearl, also by default baritone has chests on a block list not to mine, this causes a forever search if not disabled.
