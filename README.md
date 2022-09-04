@@ -1,5 +1,5 @@
 # usafan/etbes lambdaClasses
-baritoneStashStealingBot
+# baritoneStashStealingBot
 
 too prove to ionar that I could.
 
