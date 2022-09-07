@@ -1,6 +1,8 @@
 # usafan/etbes lambdaClasses
 # baritoneStashStealingBot
 
+
+rocketflight not calling vannila takeoff atm due to idk how to make lambda plugins talk to eachotehr yet
 too prove to ionar that I could.
 
 
